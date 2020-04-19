@@ -26,4 +26,5 @@ O modelo SIR leva em conta um conjunto de três equações, que representam a ta
 
 # Referências:
 [1] https://doi.org/10.1137/S0036144500371907
+
 [2] http://doi.org/10.24927/rce2017.020
