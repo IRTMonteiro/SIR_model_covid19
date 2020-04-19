@@ -24,5 +24,6 @@ O modelo SIR leva em conta um conjunto de três equações, que representam a ta
 
 * Beta : Coecifiente de transmissão. Suponhamos que cada indivduo entra em contato em média com C outros, escolhidos aleatoriamente. C diz-se a 'taxa de contato per-capita' por unidade de tempo. Considerando a hipótese de uma população homogeneamente misturada, C é constante. Se p é a probabilidade de que um contato resulte em contágio e, uma vez que existem I(t) indivíduos infetados no total, isso significa que o número de novas infeções, no intervalo de tempo é C \* p = beta. O coenficiente de transmissão depende do contato médio (C) entre indivíduos de uma população e a probabilidade (p) de um infectado infectar um individo saudável.
 
-# Referência:
-[1] https://rce.casadasciencias.org/rceapp/pdf/2017/020/
+# Referências:
+[1] https://doi.org/10.1137/S0036144500371907
+[2] http://doi.org/10.24927/rce2017.020
